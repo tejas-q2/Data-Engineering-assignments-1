@@ -1,0 +1,7 @@
+emp_id,name,email,joining_date,department,salary
+101,Alice Johnson,alice@company.com,2021-03-01,Human Resources,55000.0
+102,Bob Smith,abc@gmail.com,2015-06-15,HR,60000.0
+102,Charlie Lee,charlie.lee@company.com,2025-01-01,Finance,62500.0
+103,Tejas,abc@gmail.com,2019-08-01,hr,65000.0
+104,David Kim,david.kim@company.com,2019-11-13,IT,72000.0
+105,Emily Zhang,abc@gmail.com,2019-11-13,Information Technology,62500.0
